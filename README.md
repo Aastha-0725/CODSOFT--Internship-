@@ -1,7 +1,7 @@
 # CODSOFT--Internship-
 # CodSoft Java Development Internship - Completed Tasks
 
-This repository contains the completed tasks for the CodSoft Java Development Internship. The internship focused on developing practical Java applications, and the following three tasks were successfully implemented:
+This repository contains the completed tasks for the CodSoft Java Development Internship. The internship focused on developing practical Java applications, and the following three tasks were successfully implemented:bn
 
 1.  **Student Grade Calculator**
 2.  **Currency Converter**
