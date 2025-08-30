@@ -7,6 +7,10 @@ This repository contains the completed tasks for the CodSoft Java Development In
 2.  **Currency Converter**
 3.  **ATM Interface**
 
+[Run and view the code online on Programiz]https://www.programiz.com/online-compiler/3Rcmx0G4rCVOr
+
+
+
 ## Task 1: Student Grade Calculator
 
 This application calculates the total marks, average percentage, and assigns a grade to a student based on marks obtained in multiple subjects.
