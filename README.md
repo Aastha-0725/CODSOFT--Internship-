@@ -18,12 +18,14 @@ This application calculates the total marks, average percentage, and assigns a g
 *   Calculates the sum of marks and average percentage.
 *   Determines the grade based on predefined percentage ranges.
 *   Displays the total marks, average percentage, and assigned grade.
-#Task1 - java code and output
-#Code:
-     import java.util.Scanner;
 
-public class StudentGradeCalculator{
-    public static void main(String[]args){
+#Task1 - java code and output
+
+#Code:
+     
+     import java.util.Scanner;
+     public class StudentGradeCalculator{
+       public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Enter marks for 3 subjects(out of 100):");
